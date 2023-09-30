@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clima-app es una aplicación de pronóstico del tiempo que combina la potencia de React, la velocidad de Vite y la estética de Material UI para ofrecer a los usuarios una experiencia de usuario fluida y precisa al mantenerlos informados sobre las condiciones climáticas en todo el mundo.
+clima-app-mu.vercel.app 
